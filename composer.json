@@ -1,0 +1,14 @@
+{
+    "name": "davydgoloviy/laravel-saml2-idp",
+    "description": "Saml2 Indetity Provider",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Holovii",
+            "email": "davyd@digitalidea.studio"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
